@@ -1,6 +1,6 @@
-function hello() {
-  console.log("Hello, Boolean!");
+function hello(message) {
+  console.log(message);
 }
 
-hello();
-
+hello("Hello, Boolean!");
+hello("Hip HIp Hurra!"); //bonus
